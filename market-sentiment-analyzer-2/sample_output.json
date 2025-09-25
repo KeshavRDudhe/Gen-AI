@@ -1,0 +1,23 @@
+{
+  "company_name": "Google",
+  "stock_code": "GOOGL",
+  "newsdesc": "Alphabet shares rose after ...",
+  "sentiment": "Positive",
+  "people_names": [
+    "Sundar Pichai"
+  ],
+  "places_names": [
+    "Mountain View"
+  ],
+  "other_companies_referred": [
+    "OpenAI",
+    "Microsoft"
+  ],
+  "related_industries": [
+    "Cloud",
+    "Digital Ads",
+    "AI"
+  ],
+  "market_implications": "Short\u2011term bullish bias with moderate volatility expected.",
+  "confidence_score": 0.74
+}
