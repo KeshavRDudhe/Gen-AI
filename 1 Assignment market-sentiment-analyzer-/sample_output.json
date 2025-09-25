@@ -1,23 +1,27 @@
 {
-  "company_name": "Google",
-  "stock_code": "GOOGL",
-  "newsdesc": "Alphabet shares rose after ...",
-  "sentiment": "Positive",
+  "company_name": "Apple",
+  "stock_code": "AAPL",
+  "newsdesc": "Apple demands EU scrap landmark digital rules; EU rejects Apple demand to scrap landmark tech rules; Apple calls for changes to anti-monopoly laws and says it may stop shipping to the EU; Intel is seeking an investment from Apple as part of its comeback bid; Apple admits some of its in-store chargers are scuffing the new iPhone 17 Pro, adding fuel to users' durability concerns; Apple addresses iPhone 17 Pro and Pro Max “scratchgate” concerns; Apple admits some of its in-store chargers are scuffing the new iPhone 17 Pro, adding fuel to users’ durability concerns; Apple unveils new Phone 17, upgraded AirPods and watch at annual launch; Apple develops a lightweight AI for protein folding prediction; Apple responds to iPhone 17 Pro scratch and durability concerns.",
+  "sentiment": "Negative",
   "people_names": [
-    "Sundar Pichai"
+    "Tim Cook",
+    "Donald Trump"
   ],
   "places_names": [
-    "Mountain View"
+    "EU",
+    "Brussels",
+    "Belgium",
+    "California",
+    "China"
   ],
   "other_companies_referred": [
-    "OpenAI",
-    "Microsoft"
+    "Intel",
+    "Google DeepMind"
   ],
   "related_industries": [
-    "Cloud",
-    "Digital Ads",
-    "AI"
+    "Technology",
+    "Consumer Electronics"
   ],
-  "market_implications": "Short\u2011term bullish bias with moderate volatility expected.",
-  "confidence_score": 0.74
+  "market_implications": "Potential impact on EU market strategy and consumer perception.",
+  "confidence_score": 0.65
 }
